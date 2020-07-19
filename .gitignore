@@ -1,5 +1,6 @@
 ##---------------------------appfiles---------------------------##
 # config files
+api_keys.py
 config.py
 ##---------------------------sysfiles---------------------------##
 #                  various system files from each os
